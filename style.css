@@ -384,6 +384,7 @@ body {
 .location {
     font-size: 11px;
     line-height: 1.5;
+    font-weight: normal;
 }
 
 /* ========================= */
